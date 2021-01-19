@@ -1,0 +1,9 @@
+{
+  "environments": {
+    "default": {
+      "profile": "DEFAULT",
+      "workspace_dir": "/Users/jason.hubbard@databricks.com/pg_demo",
+      "artifact_location": "dbfs:/Shared/dbx/projects/pg_demo"
+    }
+  }
+}
